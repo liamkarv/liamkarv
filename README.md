@@ -20,5 +20,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 <img src="https://static.wikia.nocookie.net/roblox/images/a/a0/Roblox_Studio_Icon_6.svg/revision/latest?cb=20230511025706" title="Roblox Studio" alt="Roblox Studio" width="40" height="40"/>&nbsp;
 
-🛠️ Tools: 
+🛠️ Tools:
+<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
