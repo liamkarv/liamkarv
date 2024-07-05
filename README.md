@@ -1,4 +1,6 @@
-# ricefield_man
+# About Me
+I am more commonly known by my online alias as "ricefield_man".
+Currently learning and practicing Luau at the moment 
 
 💻 Languages:
 <br>
