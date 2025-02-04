@@ -1,5 +1,4 @@
 # About Me
-I am more commonly known by my online alias as "ricefield_man".
 <br>
 Currently learning all I can at the moment
 
