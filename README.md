@@ -1,7 +1,7 @@
 # About Me
 <br>
 Currently learning all I can at the moment
-<br>
+
 💻 Languages:
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
